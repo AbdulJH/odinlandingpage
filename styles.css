@@ -1,0 +1,106 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.container1 {
+  background-color: #3a5b8a;
+  position: relative;
+  height: 275px;
+}
+
+.top-bar {
+  display: flex;
+  padding-top: 7px;
+}
+
+.top-bar h3 {
+  color: white;
+  padding-left: 120px;
+  margin-right: 1160px;
+}
+
+.top-bar a {
+  margin-left: 20px;
+  text-decoration: none;
+  color: rgb(228, 227, 227);
+}
+
+.center-content {
+  padding-top: 50px;
+  padding-left: 120px;
+}
+
+img {
+  width: 125px;
+  height: 100px;
+}
+
+.container2 {
+  background-color: pink;
+  height: 250px;
+}
+
+.container2 h2 {
+  text-align: center;
+  padding-top: 20px;
+  font-size: 30px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.pics {
+  display: flex;
+  padding-top: 20px;
+  justify-content: center;
+}
+
+.first {
+  margin: 0 20px;
+}
+
+.container3 {
+  background-color: #e1e4e4;
+  height: 275px;
+  padding-bottom: 20px;
+}
+
+.quote {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 75px;
+}
+
+.quote h1 {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-size: 25px;
+  font-style: italic;
+}
+.quote h2 {
+  padding-left: 500px;
+}
+
+.container4 {
+  background-color: palegoldenrod;
+  height: 200px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.alert-box {
+  width: 850px;
+  height: 60px;
+  background-color: rgb(56, 195, 250);
+  padding: 20px;
+}
+.footer {
+  height: 100px;
+  background-color: #111b29;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+
